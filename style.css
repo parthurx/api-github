@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana;
+    background-color:  #BC8F8F;
+}
+
+.p1{
+    text-align: center;
+}
+
+div{
+    text-align: center;  
+}
+
+h1{
+    text-align: center;
+
+}
+
+.foto img{
+   width: 150px;
+   margin: 10px;
+}
